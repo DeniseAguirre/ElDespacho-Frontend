@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;600&family=Nunito:wght@600;700;800&family=Pacifico&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: #fea116;
+  --light: #f1f8ff;
+  --dark: #0f172b;
+}
+
+body {
+  @apply font-nunito;
+}
+
+.ff-secondary {
+  @apply font-pacifico;
+  font-size: x-large;
+}
+
+/*** Button ***/
+
+.btn {
+  @apply font-nunito;
+  font-weight: 500;
+  text-transform: uppercase;
+  transition: 0.5s;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 2px;
+}
+
+/*** Section Title ***/
+.section-title {
+  position: relative;
+  display: inline-block;
+}
+
+.section-title::before {
+  position: absolute;
+  content: "";
+  width: 45px;
+  height: 2px;
+  top: 50%;
+  left: -55px;
+  margin-top: -1px;
+  background: var(--primary);
+}
+
+.section-title::after {
+  position: absolute;
+  content: "";
+  width: 45px;
+  height: 2px;
+  top: 50%;
+  right: -55px;
+  margin-top: -1px;
+  background: var(--primary);
+}
+
+.section-title.text-start::before,
+.section-title.text-end::after {
+  display: none;
+}
+
+/*** Testimonial ***/
+
+.slick-prev:before,
+.slick-next:before {
+  color: var(--primary) !important;
+}
+
+/*** Sweet Alert ***/
+
+.swal-confirm-button {
+  background-color: var(--primary);
+}

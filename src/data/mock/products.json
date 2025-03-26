@@ -1,0 +1,189 @@
+[
+  {
+    "id": "b544c254-b59b-4aff-646c-08dcf9e1dd59",
+    "categorySlug": "clasicas",
+    "pictureFileUri": "https://i.postimg.cc/bNvg18JW/1.jpg",
+    "name": "Picantes",
+    "slug": "picantes",
+    "description": "Carne picante con aceitunas y huevo duro. (Al horno).",
+    "price": 1250,
+    "discountPercentage": 0,
+    "priceWithDiscount": 1250
+  },
+  {
+    "id": "1d051152-9e1b-48b8-646f-08dcf9e1dd59",
+    "categorySlug": "clasicas",
+    "pictureFileUri": "https://i.postimg.cc/c45mmjtH/2.jpg",
+    "name": "Pollo",
+    "slug": "pollo",
+    "description": "Carne de pollo con huevo duro. (Al horno).",
+    "price": 1250,
+    "discountPercentage": 0,
+    "priceWithDiscount": 1250
+  },
+  {
+    "id": "934892de-3315-4421-6472-08dcf9e1dd59",
+    "categorySlug": "clasicas",
+    "pictureFileUri": "https://i.postimg.cc/25n7CScb/3.jpg",
+    "name": "Fontina al tomate",
+    "slug": "fontina-al-tomate",
+    "description": "Queso fontina mezclado con salsa de tomate condimentada. (Al horno).",
+    "price": 1250,
+    "discountPercentage": 0,
+    "priceWithDiscount": 1250
+  },
+  {
+    "id": "41e31c3f-bf5f-4438-6475-08dcf9e1dd59",
+    "categorySlug": "clasicas",
+    "pictureFileUri": "https://i.postimg.cc/W1F7fn07/4.jpg",
+    "name": "Humita",
+    "slug": "humita",
+    "description": "Choclo con salsa blanca y trocitos de queso. (Al horno).",
+    "price": 1250,
+    "discountPercentage": 0,
+    "priceWithDiscount": 1250
+  },
+  {
+    "id": "e9bb457e-e8ba-45bb-6478-08dcf9e1dd59",
+    "categorySlug": "clasicas",
+    "pictureFileUri": "https://i.postimg.cc/wjCkKmVY/5.jpg",
+    "name": "Ahumadas",
+    "slug": "ahumadas",
+    "description": "Carne trozada en dados, con huevo duro y panceta ahumada. (Al horno).",
+    "price": 1250,
+    "discountPercentage": 0,
+    "priceWithDiscount": 1250
+  },
+  {
+    "id": "465101da-cf18-4206-647b-08dcf9e1dd59",
+    "categorySlug": "clasicas",
+    "pictureFileUri": "https://i.postimg.cc/RFR1nbzv/6.jpg",
+    "name": "Calabaza y queso",
+    "slug": "calabaza-y-queso",
+    "description": "Calabaza asada con queso (Al horno o Fritas).",
+    "price": 1250,
+    "discountPercentage": 0,
+    "priceWithDiscount": 1250
+  },
+  {
+    "id": "6952db7a-b258-4cc8-646d-08dcf9e1dd59",
+    "categorySlug": "gourmets",
+    "pictureFileUri": "https://i.postimg.cc/D0wrQd2L/7.jpg",
+    "name": "Tucumana",
+    "slug": "tucumana",
+    "description": "Carne trozado artesanalmente en dados. (Al horno o Fritas).",
+    "price": 1250,
+    "discountPercentage": 20,
+    "priceWithDiscount": 1000
+  },
+  {
+    "id": "d9a99783-266e-4821-6470-08dcf9e1dd59",
+    "categorySlug": "gourmets",
+    "pictureFileUri": "https://i.postimg.cc/T1NrtLwS/8.jpg",
+    "name": "Atún",
+    "slug": "atun",
+    "description": "Atún, tomate, salsa blanca y huevos batidos. (Al horno).",
+    "price": 1250,
+    "discountPercentage": 0,
+    "priceWithDiscount": 1250
+  },
+  {
+    "id": "0bcaec66-526f-4fed-6473-08dcf9e1dd59",
+    "categorySlug": "gourmets",
+    "pictureFileUri": "https://i.postimg.cc/7PKMHcVV/9.jpg",
+    "name": "Cebolla y queso",
+    "slug": "cebolla-y-queso",
+    "description": "Cebolla, muzzarella y orégano. (Al horno).",
+    "price": 1250,
+    "discountPercentage": 0,
+    "priceWithDiscount": 1250
+  },
+  {
+    "id": "c2fbf1b7-b81d-4e20-6476-08dcf9e1dd59",
+    "categorySlug": "gourmets",
+    "pictureFileUri": "https://i.postimg.cc/DymQ8gpK/10.jpg",
+    "name": "Verduras",
+    "slug": "verduras",
+    "description": "Acelga con salsa blanca, trocitos de queso y huevo duro. (Al horno).",
+    "price": 1250,
+    "discountPercentage": 0,
+    "priceWithDiscount": 1250
+  },
+  {
+    "id": "b502295b-6259-4ad8-6479-08dcf9e1dd59",
+    "categorySlug": "gourmets",
+    "pictureFileUri": "https://i.postimg.cc/DZ2LFd4H/12.jpg",
+    "name": "Chorizo y queso",
+    "slug": "chorizo-y-queso",
+    "description": "Carne de chorizo de cerdo con queso en hebras.",
+    "price": 1250,
+    "discountPercentage": 0,
+    "priceWithDiscount": 1250
+  },
+  {
+    "id": "7937d623-17c2-4bab-646b-08dcf9e1dd59",
+    "categorySlug": "vegetarianas",
+    "pictureFileUri": "https://i.postimg.cc/YSNYJy0Q/13.jpg",
+    "name": "Recao",
+    "slug": "recao",
+    "description": "Carne con arvejas, aceitunas y huevo duro. (Al horno).",
+    "price": 1250,
+    "discountPercentage": 10,
+    "priceWithDiscount": 1125
+  },
+  {
+    "id": "dea80667-d9c2-45bb-646e-08dcf9e1dd59",
+    "categorySlug": "vegetarianas",
+    "pictureFileUri": "https://i.postimg.cc/q7H2DdJk/14.jpg",
+    "name": "Arabes",
+    "slug": "arabes",
+    "description": "Carne macerada, cebolla y tomate.(Al horno).",
+    "price": 1250,
+    "discountPercentage": 5,
+    "priceWithDiscount": 1187.5
+  },
+  {
+    "id": "b099f8c1-dfc1-4ef5-6471-08dcf9e1dd59",
+    "categorySlug": "vegetarianas",
+    "pictureFileUri": "https://i.postimg.cc/q7H2DdJk/14.jpg",
+    "name": "Jamón y Queso",
+    "slug": "jamon-y-queso",
+    "description": "Souffle de queso con jamón. (Al horno o Fritas).",
+    "price": 1250,
+    "discountPercentage": 15,
+    "priceWithDiscount": 1062.5
+  },
+  {
+    "id": "6b5c8775-0c6a-4956-6474-08dcf9e1dd59",
+    "categorySlug": "vegetarianas",
+    "pictureFileUri": "https://i.postimg.cc/rFdW8pzV/15.jpg",
+    "name": "Roquefort",
+    "slug": "roquefort",
+    "description": "Roquefort, salsa blanca y nueces. (Al horno).",
+    "price": 1250,
+    "discountPercentage": 0,
+    "priceWithDiscount": 1250
+  },
+  {
+    "id": "4193f150-04f4-4f07-6477-08dcf9e1dd59",
+    "categorySlug": "vegetarianas",
+    "pictureFileUri": "https://i.postimg.cc/J49XtWBb/16.jpg",
+    "name": "Caprese",
+    "slug": "caprese",
+    "description": "Muzzarella, cubitos de tomate, hojas de albahaca fresca y aceite de oliva. (Al horno).",
+    "price": 1250,
+    "discountPercentage": 0,
+    "priceWithDiscount": 1250
+  },
+  {
+    "id": "d7dc9ea6-89e0-4a48-647a-08dcf9e1dd59",
+    "categorySlug": "vegetarianas",
+    "pictureFileUri": "https://i.postimg.cc/RFR1nbzv/6.jpg",
+    "name": "Criollas",
+    "slug": "criollas",
+    "description": "Carne con huevo duro (Al horno o Fritas).",
+    "price": 1250,
+    "discountPercentage": 0,
+    "priceWithDiscount": 1250
+  }
+]
