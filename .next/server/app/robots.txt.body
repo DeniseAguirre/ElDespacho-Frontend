@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /private/
+
+Host: https://{{SITE_URL}}
+Sitemap: https://{{SITE_URL}}/sitemap.xml

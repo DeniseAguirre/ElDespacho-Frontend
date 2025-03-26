@@ -1,12 +1,19 @@
 {
   "name": "el-despacho-frontend",
   "version": "0.1.0",
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/next"
+    }
+  ],
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "now-build": "next build"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^2.3.0",
